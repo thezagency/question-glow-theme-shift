@@ -2,52 +2,52 @@
 [
   {
     "id": 1,
-    "question": "What is the fastest animal on Earth?",
-    "answer": "The Peregrine Falcon is the fastest animal on Earth. During its hunting dive (called a stoop), it can reach speeds over 240 mph (386 km/h)."
+    "question": "What does 'use strict' do in JavaScript?",
+    "answer": "It enables strict mode which catches common coding errors and prevents the use of certain error-prone features like undeclared variables. It helps write cleaner and more secure JavaScript code."
   },
   {
     "id": 2,
-    "question": "Why is the sky blue?",
-    "answer": "The sky appears blue because air molecules scatter blue sunlight more than red light. This scattering process, called Rayleigh scattering, happens when sunlight hits air molecules in our atmosphere."
+    "question": "Explain the difference between '==' and '===' in JavaScript.",
+    "answer": "The '==' operator performs type coercion before comparison, while '===' is a strict equality operator that compares both value and type without conversion. For example, '5' == 5 returns true, but '5' === 5 returns false."
   },
   {
     "id": 3,
-    "question": "How do bees make honey?",
-    "answer": "Bees make honey by collecting nectar from flowers, breaking it down into simple sugars in their honey stomach, then regurgitating it into honeycomb cells where they fan it with their wings to evaporate excess water."
+    "question": "What is the difference between let, const, and var in JavaScript?",
+    "answer": "var: function-scoped, hoisted, and can be redeclared. let: block-scoped, not hoisted, can be reassigned but not redeclared. const: block-scoped, not hoisted, cannot be reassigned or redeclared after initialization."
   },
   {
     "id": 4,
-    "question": "What makes a rainbow?",
-    "answer": "Rainbows form when sunlight enters raindrops, reflects off the back of the drops, and bends (refracts) as it exits. This separates white sunlight into its component colors, creating the arc we see."
+    "question": "Explain what a closure is in JavaScript.",
+    "answer": "A closure is a function that has access to its own scope, the scope of the outer function, and the global scope. It allows a function to maintain references to its lexical environment, preserving variables even after the outer function has finished executing."
   },
   {
     "id": 5,
-    "question": "Why do leaves change color in autumn?",
-    "answer": "Leaves change color in autumn because trees stop producing chlorophyll (which makes leaves green) as days shorten. This reveals other pigments that were always present: carotenoids (yellow/orange) and anthocyanins (red/purple)."
+    "question": "What is the CSS Box Model?",
+    "answer": "The CSS Box Model describes how elements are rendered as boxes with content, padding, border, and margin. From inside to outside: content (where text/images appear), padding (space between content and border), border (line around padding), and margin (space outside border)."
   },
   {
     "id": 6,
-    "question": "How do airplanes stay in the air?",
-    "answer": "Airplanes stay in the air due to four forces: thrust (engines pushing forward), drag (air resistance), weight (gravity pulling down), and lift (air flowing over curved wings creating upward pressure)."
+    "question": "How do you center a div horizontally and vertically?",
+    "answer": "Using Flexbox: .parent { display: flex; justify-content: center; align-items: center; height: 100vh; }. Using Grid: .parent { display: grid; place-items: center; height: 100vh; }. Using absolute positioning: .child { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }"
   },
   {
     "id": 7,
-    "question": "What causes the northern lights?",
-    "answer": "The northern lights (aurora borealis) are caused when charged particles from the sun collide with gases in Earth's atmosphere, creating colorful light displays, primarily near the magnetic poles."
+    "question": "What is the difference between HTTP and HTTPS?",
+    "answer": "HTTP (Hypertext Transfer Protocol) is unencrypted, while HTTPS (HTTP Secure) adds encryption using SSL/TLS protocols. HTTPS provides secure communication by encrypting data and authenticating websites, protecting against man-in-the-middle attacks and data interception."
   },
   {
     "id": 8,
-    "question": "Why is the ocean salty?",
-    "answer": "The ocean is salty because over billions of years, rainwater has dissolved minerals from rocks and carried them to the sea. While water evaporates, the salt remains and accumulates."
+    "question": "What are React hooks?",
+    "answer": "React hooks are functions that allow you to use state and lifecycle features in functional components. Examples include useState for state management, useEffect for side effects, useContext for context API, useRef for referencing DOM elements, and custom hooks for reusable logic."
   },
   {
     "id": 9,
-    "question": "How do vaccines work?",
-    "answer": "Vaccines work by introducing a harmless piece of a germ (or weakened version) to your immune system, which learns to recognize and fight it. Then if you encounter the real germ later, your body remembers how to fight it quickly."
+    "question": "Explain the concept of Big O notation.",
+    "answer": "Big O notation describes the performance or complexity of an algorithm, specifically the worst-case scenario. It expresses how runtime or space requirements grow relative to input size. Common notations: O(1) - constant, O(log n) - logarithmic, O(n) - linear, O(n²) - quadratic, O(2ⁿ) - exponential."
   },
   {
     "id": 10,
-    "question": "Why don't birds get electrocuted on power lines?",
-    "answer": "Birds don't get electrocuted on power lines because they touch only one wire at a time. Electricity needs a complete circuit to flow, so when a bird stands on a single wire, the current can't flow through them to the ground."
+    "question": "What is the purpose of the 'this' keyword in JavaScript?",
+    "answer": "The 'this' keyword refers to the object it belongs to. In a method, 'this' refers to the owner object. Alone, it refers to the global object. In a function, it refers to the global object. In an event, it refers to the element that received the event. In strict mode, 'this' is undefined if not set."
   }
 ]
