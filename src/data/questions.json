@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is the fastest animal on Earth?",
+    "answer": "The Peregrine Falcon is the fastest animal on Earth. During its hunting dive (called a stoop), it can reach speeds over 240 mph (386 km/h)."
+  },
+  {
+    "id": 2,
+    "question": "Why is the sky blue?",
+    "answer": "The sky appears blue because air molecules scatter blue sunlight more than red light. This scattering process, called Rayleigh scattering, happens when sunlight hits air molecules in our atmosphere."
+  },
+  {
+    "id": 3,
+    "question": "How do bees make honey?",
+    "answer": "Bees make honey by collecting nectar from flowers, breaking it down into simple sugars in their honey stomach, then regurgitating it into honeycomb cells where they fan it with their wings to evaporate excess water."
+  },
+  {
+    "id": 4,
+    "question": "What makes a rainbow?",
+    "answer": "Rainbows form when sunlight enters raindrops, reflects off the back of the drops, and bends (refracts) as it exits. This separates white sunlight into its component colors, creating the arc we see."
+  },
+  {
+    "id": 5,
+    "question": "Why do leaves change color in autumn?",
+    "answer": "Leaves change color in autumn because trees stop producing chlorophyll (which makes leaves green) as days shorten. This reveals other pigments that were always present: carotenoids (yellow/orange) and anthocyanins (red/purple)."
+  },
+  {
+    "id": 6,
+    "question": "How do airplanes stay in the air?",
+    "answer": "Airplanes stay in the air due to four forces: thrust (engines pushing forward), drag (air resistance), weight (gravity pulling down), and lift (air flowing over curved wings creating upward pressure)."
+  },
+  {
+    "id": 7,
+    "question": "What causes the northern lights?",
+    "answer": "The northern lights (aurora borealis) are caused when charged particles from the sun collide with gases in Earth's atmosphere, creating colorful light displays, primarily near the magnetic poles."
+  },
+  {
+    "id": 8,
+    "question": "Why is the ocean salty?",
+    "answer": "The ocean is salty because over billions of years, rainwater has dissolved minerals from rocks and carried them to the sea. While water evaporates, the salt remains and accumulates."
+  },
+  {
+    "id": 9,
+    "question": "How do vaccines work?",
+    "answer": "Vaccines work by introducing a harmless piece of a germ (or weakened version) to your immune system, which learns to recognize and fight it. Then if you encounter the real germ later, your body remembers how to fight it quickly."
+  },
+  {
+    "id": 10,
+    "question": "Why don't birds get electrocuted on power lines?",
+    "answer": "Birds don't get electrocuted on power lines because they touch only one wire at a time. Electricity needs a complete circuit to flow, so when a bird stands on a single wire, the current can't flow through them to the ground."
+  }
+]
